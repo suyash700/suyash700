@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋, I'm Suyash Dahitule
 
-<!--
-**suyash700/suyash700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **DevOps Engineer | Cloud Enthusiast | Automation & Security Advocate**
 
-Here are some ideas to get you started:
+I’m a results-driven DevOps Engineer with hands-on experience in CI/CD pipelines, cloud infrastructure, containerization, and DevSecOps practices. I love automating workflows, improving system reliability, and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📈 GitHub Stats
+![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyash700&show_icons=true&theme=radical)
+
+---
+
+## 💼 Projects Highlights
+- **EasyShop** – Cloud-Native E-commerce Web App with complete DevOps lifecycle  
+- **Society Management System** – React + Tailwind project with event notifications & payment integration  
+- **DevSecOps Enabled Online Shop** - Enabled DevSecOps Practices for early detection
+  
+*More projects in [my repositories](https://github.com/suyash700)*
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyash-dahitule/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@suyashdahitule)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://suyashdahitule.hashnode.dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suyashdahitule12@gmail.com)
+
+---
+
+*"Automate everything. Secure everything. Learn everything."* 🌟
+
