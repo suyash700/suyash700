@@ -28,7 +28,7 @@ I’m a results-driven DevOps Engineer with hands-on experience in CI/CD pipelin
 - **Society Management System** – React + Tailwind project with event notifications & payment integration  
 - **DevSecOps Enabled Online Shop** - Enabled DevSecOps Practices for early detection
   
-*More projects in [my repositories](https://github.com/suyash700)*
+*More projects in [my repositories](https://github.com/suyash700?tab=repositories)*
 
 ---
 
