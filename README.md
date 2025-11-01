@@ -4,6 +4,11 @@
 
 I’m a results-driven DevOps Engineer with hands-on experience in CI/CD pipelines, cloud infrastructure, containerization, and DevSecOps practices. I love automating workflows, improving system reliability, and learning new technologies.
 
+# My Video Resume : 
+
+https://preskilet.com/watch?v=68db9301749a97001d782daa
+
+
 ---
 
 ## 🔧 Tech Stack
