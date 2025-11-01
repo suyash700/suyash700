@@ -24,9 +24,12 @@ I’m a results-driven DevOps Engineer with hands-on experience in CI/CD pipelin
 ---
 
 ## 💼 Projects Highlights
-- **EasyShop** – Cloud-Native E-commerce Web App with complete DevOps lifecycle  
-- **Society Management System** – React + Tailwind project with event notifications & payment integration  
+- **EasyShop** – Cloud-Native E-commerce Web App with complete DevOps lifecycle
+- https://github.com/suyash700/EasyShop-Ecommerce-CloudNative-app/tree/suyash1
+- **Society Management System** – React + Tailwind project with event notifications & payment integration
+-  
 - **DevSecOps Enabled Online Shop** - Enabled DevSecOps Practices for early detection
+- https://github.com/suyash700/online_shop/tree/project
   
 *More projects in [my repositories](https://github.com/suyash700?tab=repositories)*
 
