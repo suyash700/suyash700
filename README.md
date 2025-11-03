@@ -31,10 +31,17 @@ https://preskilet.com/watch?v=68db9301749a97001d782daa
 ## 💼 Projects Highlights
 - **EasyShop** – Cloud-Native E-commerce Web App with complete DevOps lifecycle
 - https://github.com/suyash700/EasyShop-Ecommerce-CloudNative-app/tree/suyash1
-- **Society Management System** – React + Tailwind project with event notifications & payment integration
--  
+- **Society Management System** – React + Tailwind project with event notifications & payment integration 
 - **DevSecOps Enabled Online Shop** - Enabled DevSecOps Practices for early detection
 - https://github.com/suyash700/online_shop/tree/project
+
+## My Cloud Projects 
+- **AWS Application Load Balancer** - Header-Based + Path-Based Routing
+- https://github.com/suyash700/Load_Balancer_tutorial
+- **VPC Peering** - set up VPC Peering in AWS with two VPCs
+- https://github.com/suyash700/VPC-Peering
+- **S3-Multipart-Upload** - It automates splitting the file, uploading parts, and completing the upload.
+- https://github.com/suyash700/S3-Multipart-Upload
   
 *More projects in [my repositories](https://github.com/suyash700?tab=repositories)*
 
