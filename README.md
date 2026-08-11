@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Suyash Dahitule
 
-🌟 **DevOps Engineer | Cloud Enthusiast | Automation & Security Advocate**
+🌟 **DevOps Engineer | Cloud Enthusiast |**
 
 I’m a results-driven DevOps Engineer with hands-on experience in CI/CD pipelines, cloud infrastructure, containerization, and DevSecOps practices. I love automating workflows, improving system reliability, and learning new technologies.
 
